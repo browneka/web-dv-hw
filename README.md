@@ -1,2 +1,3 @@
 # Katherine Browne's web-dv-hw
-Repository for Intro to Web Design Homework
+This repository is for web design homework.
+I love to read and I am studying psychology. 
