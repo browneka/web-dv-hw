@@ -1,0 +1,7 @@
+1. The internet is an interconnected network constantly sending and recieving information to and from different connections while the web is a webbed network, or a network of networks, with shortcuts and links to other information to make it easier than reading down each tree in the internet's heirarchy of information only to be directed to another tree of information. 
+
+2. The internet is a wire in the ground that is connected to servers, each with a unique IP address. Webpages are files on a server's hard drive and the information is sent in packets, with the help of routers, to "clients", which are computers used in everyday life that are connected to a server, where the information is rearranged into the correct order. 
+
+3. A directory holds a group of files that have been organized into a group. A directory keeps the files organized in the groups each file has been organized into.
+
+4. A Version Control System lets snapshots of a project to be taken at any time and allows all changes made to be seen and allows for comparison between different snapshots of a project. This allows us to keep track of the changes that have been made, change back to a previous version that worked better, and lets users share and work together on projects.
