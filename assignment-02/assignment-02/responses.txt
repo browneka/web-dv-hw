@@ -1,0 +1,9 @@
+1. Briefly describe one way how data travels on the internet.
+Data travels in bits of information between servers which find information requested from a computer.
+2.What is the relationship between an IP address and the DNS?
+3. What is a cookie?
+ A cookie is a piece of data that is sent from a website and is kept on the computer's browser.
+4.List the the three basic parts of a URL.
+  1. Protocol
+  2. Domain
+  3. Paths 
