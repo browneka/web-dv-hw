@@ -1,4 +1,4 @@
 1. Browsers have their own javascript interpreters used to understand the programming language needed to give a site interactive logic and functionality. Browsers communicate over networks to receive content. Browsers also have their own rendering engines which display the visual representation of a webpage by taking in both HTML and CSS documents and then displaying the representation of them. The user interface which is what appears for users to interact with. Browsers each have their own browsing engines which direct the actions between the user interface and the rendering engine and all external communication with servers.
 2. Markup language are the programming languages, such as HTML and XML, used to create content.
   The most widely-used markup language is HTML, or Hypertext Markup language. HTML displays document nodes and functions as the foundation and structure of a page's content. HTML provides a standardized element and tagging system but it's consistent version updates and changes require extended education to use.
-![My Screenshot](./assignment-03/images/screenshot-03.jpg)
+![My Screenshot](./assingment-03/images/screenshot-03.jpg)
