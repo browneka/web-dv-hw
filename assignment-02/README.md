@@ -9,4 +9,4 @@ I decided to take this class because it is one of the few upper level classes ou
 
 [My Responses](./responses.txt)
 
-[My Screenshot](./screenshot.jpg)
+![My Screenshot](./screenshot.jpg)
