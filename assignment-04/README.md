@@ -2,4 +2,4 @@
 <br />
 <p> I learned how to add headings and subheadings and how their numbered in order from 1-6 with 1 being the main heading. I was really interested in learning about the different one-tag and two-tag elements, as well as how to insert line breaks and horizontal rules. I am still having difficulty properly adding/linking/embedding images though this module did not talk about that topic as much as the second and third modules did. </p>
 
-![My Screenshot](./assignment-04/images/screenshot.jpg)
+![My Screenshot](/assignment-04/images/screenshot.jpg)
