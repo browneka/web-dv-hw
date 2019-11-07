@@ -1,0 +1,17 @@
+/*practicing styling in CSS */
+<head>
+  <style>
+h1, h2 {
+  color:rgb(255, 183, 23)
+}
+
+* {
+  background-color: rgb(207, 74, 61)
+  opacity: 1.0;
+}
+
+body {
+  color: white;
+}
+</style>
+</head>

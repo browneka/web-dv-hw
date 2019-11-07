@@ -1,0 +1,5 @@
+The selector you choose to use to style content depends on what content you want styled and how. If you want to style every element the same way, you would use a universal selector. If you want to style all a specific element or group of elements, the element selector is used. To select all content with the same id, you use the id selector. The class selector is used to style all elements within the same class.
+
+ For the headings (h1 and h2) I chose a shade of orange, rgb(255, 183, 23), that fit well with the 1970's theme and I thought the color would pop on the page. I chose rgb(207, 74, 61) as the background color to go with the theme without overpowering the other content. The third color I used, white, was for the text color of text within the <body> to make the content readable.
+
+ For this assignment, I read and took notes from the information on the course website. After this, I looked up the assignment on moodle and worked through the steps. Now I will upload the assignment to GitHub and submit the links on moodle. 
