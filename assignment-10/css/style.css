@@ -1,0 +1,24 @@
+<link href="https://fonts.googleapis.com/css?family=Calistoga|Open+Sans&display=swap" rel="stylesheet">
+h4, h1 {
+  font-family: 'Calistoga', cursive;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+}
+p {
+  font-family:'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+p::first-letter {
+  font-size: 18px;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: red;
+}
