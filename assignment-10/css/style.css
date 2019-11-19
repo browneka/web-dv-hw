@@ -10,7 +10,7 @@ p {
   font-size: 14px;
   font-weight: 400;
 }
-p::first-letter {
+#p1::first-letter {
   font-size: 18px;
 }
 a:link {
