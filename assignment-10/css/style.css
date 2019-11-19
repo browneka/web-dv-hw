@@ -11,7 +11,7 @@ p {
   font-weight: 400;
 }
 #p1::first-letter {
-  font-size: 18px;
+  font-size: 17px;
 }
 a:link {
   color: blue;
