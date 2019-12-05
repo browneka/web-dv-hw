@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Lato&display=swap');
+h1, h2 {
+  font-family: 'Bebas Neue', cursive; bold;
+}
+* {
+  font-family: 'Lato', sans-serif;
+  background-color: rgb(26, 195, 48);
+  color: rgb(21, 80, 21);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(1, 184, 101);
+  color: rgba(48, 87, 3, 0.85);
+  display: block;
+  position: sticky;
+}
+a:hover {
+  background-color: rgb(9, 96, 20);
+  color: rgb(144, 230, 109);
+}
+.active {
+  background-color: rgb(0, 0, 0);
+  color: rgb(224, 219, 204);
+}
+li a, .dropbtn {
+  display: inline-block;
+  color: rgb(153, 255, 139);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(228, 222, 71);
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: rgb(1, 73, 3);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: rgb(27, 77, 0);}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.part-one {
+  background-color: rgb(128, 182, 95);
+  color: rgb(17, 82, 35);
+  border: hidden;
+  margin: 1;
+}
+.part-two {
+  background-color: rgb(17, 82, 35);
+  color: rgb(128, 182, 95);
+  border: hidden;
+  margin: 1;
+}
+.contact-page {
+  background-color: rgb(128, 182, 95);
+  color: rgb(17, 82, 35);
+  border: hidden;
+  margin: 1;
+}
+.contact-info {
+  background-color: rgb(17, 82, 35);
+  color: rgb(128, 182, 95);
+  border: hidden;
+  margin: 1;
+}

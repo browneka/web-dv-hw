@@ -1,0 +1,3 @@
+My imaginary client was "Poppy" who wanted a website for her plant-sitting business. They wanted something simple but colorful that summed up what the company was about and provide good contact information.
+display:block turns inline elements into block elements on the page. display:inline makes block elements act like inline elements do. display:inline-block gets rid of new lines that come with block elements and causes the element(s) to take up the entire horizontal container.
+I had a lot of difficulty with this assignment and it took longer than any before. After reading the course website for the section, I worked my way through the steps on Moodle to complete the assignment. 
