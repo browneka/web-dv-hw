@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Lato&display=swap');
+h1 {
+  border: hidden;
+  align-content: center;
+  margin: 1;
+  padding: 1;
+}
+* {
+  font-family: 'Lato', sans-serif;
+  background-color: rgb(199, 124, 198);
+  color: rgb(189, 172, 159);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(189, 172, 159);
+  color: rgb(199, 124, 198);
+  display: block;
+  position: sticky;
+}
+a:hover {
+  background-color: rgb(0, 0, 0);
+  color: rgb(252, 252, 252);
+}
+.current {
+  background-color: rgb(252, 252, 252);
+  color: rgb(0, 0, 0);
+}
+li a, .dropbtn {
+  display: inline-block;
+  color: rgb(206, 99, 238);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(228, 222, 71);
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(207, 72, 181);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: rgb(249, 247, 209);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: rgb(110, 227, 47);}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.art {
+  border: hidden;
+  margin: 1;
+  padding: 1;
+}
+.content {
+  background-color: rgb(232, 200, 230);
+  color: rgb(92, 21, 66);
+  border: hidden;
+  margin: 1;
+}
+.contact-page {
+  background-color: rgb(214, 190, 61);
+  color: rgb(133, 4, 43);
+  border: hidden;
+  margin: 1;
+}
+.contact-info {
+  background-color: rgb(133, 4, 43);
+  color: rgb(214, 190, 61);
+  border: hidden;
+  margin: 1;
+}
