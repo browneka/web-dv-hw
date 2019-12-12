@@ -29,7 +29,7 @@ a:hover {
 }
 li a, .dropbtn {
   display: inline-block;
-  color: rgb(206, 99, 238);
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
